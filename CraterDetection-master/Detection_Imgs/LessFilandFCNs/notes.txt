@@ -1,0 +1,4 @@
+Craters Detected       = 157
+Total Craters in Image = 185
+TPs (Across all layers)= 387
+FPs (Across all layers)= 1041
